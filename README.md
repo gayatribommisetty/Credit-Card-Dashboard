@@ -3,12 +3,12 @@
 ## Project Overview
 This project involves the development of a comprehensive **Credit Card Weekly Dashboard** using Power BI to provide actionable insights into key performance metrics. The dashboard enables stakeholders to monitor, analyze, and make data-driven decisions regarding credit card operations, revenue generation, and customer behavior.
 
----
+
 
 ## Objective
 To create an interactive and visually engaging dashboard that tracks credit card revenue, transactions, and customer segmentation, helping stakeholders understand trends and optimize strategies effectively.
 
----
+
 
 ## Features
 1. **Interactive Dashboard**:
@@ -32,14 +32,14 @@ To create an interactive and visually engaging dashboard that tracks credit card
    - Charts and graphs showcasing trends in revenue, transactions, and customer contributions.
    - Geographical insights identifying high-revenue states.
 
----
+
 
 ## Technologies Used
 - **SQL**: Data extraction, transformation, and loading (ETL) process.
 - **Power BI**: Interactive visualization and dashboard creation.
 - **DAX**: Calculation of measures and columns for advanced insights.
 
----
+
 
 ##![PHOTO-2025-01-10-14-38-20](https://github.com/user-attachments/assets/fa2bab02-1b17-4722-ac51-d771b92d696b)
 ![PHOTO-2025-01-10-14-38-20](https://github.com/user-attachments/assets/e7695ef0-8c4e-4e19-85d5-2e4de822588f)
@@ -78,7 +78,7 @@ To create an interactive and visually engaging dashboard that tracks credit card
 3. **Data Import**:
    - Load data into Power BI from the SQL database.
 
----
+
 
 ## How to Use the Dashboard
 1. **Filters**:
@@ -93,7 +93,7 @@ To create an interactive and visually engaging dashboard that tracks credit card
 4. **Performance Metrics**:
    - Track week-over-week and year-to-date changes in revenue and transactions.
 
----
+
 
 ## Applications
 1. **Business Monitoring**:
@@ -108,14 +108,8 @@ To create an interactive and visually engaging dashboard that tracks credit card
 4. **Risk Analysis**:
    - Evaluate delinquency trends to mitigate credit risks.
 
----
 
 
-
-
-
-
----
 
 ## Skills Learned
 1. **Data Extraction and Transformation**:
@@ -131,7 +125,7 @@ To create an interactive and visually engaging dashboard that tracks credit card
 6. **Performance Tracking**:
    - Utilizing metrics like activation and delinquency rates to evaluate credit card performance.
 
----
+
 
 ## Conclusion
 This project demonstrates the ability to integrate SQL, Power BI, and DAX to develop a robust analytical solution. By providing real-time insights, the dashboard supports stakeholders in understanding credit card operations and making data-driven decisions. The knowledge gained through this project strengthens expertise in data analytics, visualization, and business intelligence, making it a valuable addition to any data-driven organization.
