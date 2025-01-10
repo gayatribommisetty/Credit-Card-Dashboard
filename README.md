@@ -80,38 +80,6 @@ To create an interactive and visually engaging dashboard that tracks credit card
    - Load data into Power BI from the SQL database.
 
 
-
-## How to Use the Dashboard
-1. **Filters**:
-   - Use slicers to view specific week numbers, card categories, and income levels.
-
-2. **Charts**:
-   - Analyze revenue distribution by age, job type, education, and spending categories.
-
-3. **Geographical Insights**:
-   - Identify high-revenue states using state-level analysis.
-
-4. **Performance Metrics**:
-   - Track week-over-week and year-to-date changes in revenue and transactions.
-
-
-
-## Applications
-1. **Business Monitoring**:
-   - Monitor the performance of different credit card categories.
-
-2. **Customer Insights**:
-   - Identify high-value customer segments based on spending behavior.
-
-3. **Strategic Decision-Making**:
-   - Optimize marketing strategies and campaigns for high-revenue segments.
-
-4. **Risk Analysis**:
-   - Evaluate delinquency trends to mitigate credit risks.
-
-
-
-
 ## Skills Learned
 1. **Data Extraction and Transformation**:
    - Experience in using SQL to clean and prepare data for analysis.
@@ -125,7 +93,6 @@ To create an interactive and visually engaging dashboard that tracks credit card
    - Effective segmentation of data based on demographics, income, and geographic variables.
 6. **Performance Tracking**:
    - Utilizing metrics like activation and delinquency rates to evaluate credit card performance.
-
 
 
 ## Conclusion
