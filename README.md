@@ -1,4 +1,5 @@
 # Credit Card Financial Dashboard
+![credit card ](https://github.com/user-attachments/assets/d03a587f-2abb-4b4f-bca7-4bb7bf376477)
 
 ## Project Overview
 This project involves the development of a comprehensive **Credit Card Weekly Dashboard** using Power BI to provide actionable insights into key performance metrics. The dashboard enables stakeholders to monitor, analyze, and make data-driven decisions regarding credit card operations, revenue generation, and customer behavior.
