@@ -44,7 +44,7 @@ To create an interactive and visually engaging dashboard that tracks credit card
 ##![PHOTO-2025-01-10-14-38-20](https://github.com/user-attachments/assets/fa2bab02-1b17-4722-ac51-d771b92d696b)
 ![PHOTO-2025-01-10-14-38-20](https://github.com/user-attachments/assets/e7695ef0-8c4e-4e19-85d5-2e4de822588f)
 
- Insights Derived
+## Insights Derived
 1. **Weekly Trends**:
    - Week 53 recorded a **28.8% increase in revenue**.
    - Growth observed in transaction counts and customer engagement.
@@ -110,13 +110,9 @@ To create an interactive and visually engaging dashboard that tracks credit card
 
 ---
 
-## Future Enhancements
-1. Add predictive analytics for revenue forecasting.
-2. Introduce drill-down functionality for deeper analysis.
-3. Include KPIs such as customer churn rate and lifetime value.
-4. Automate data refresh for real-time updates.
 
----
+
+
 
 
 ---
